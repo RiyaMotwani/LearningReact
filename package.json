@@ -1,0 +1,20 @@
+{
+  "name": "LearningReact",
+  "version": "1.0.0",
+  "description": "Learning ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiyaMotwani/LearningReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiyaMotwani/LearningReact/issues"
+  },
+  "homepage": "https://github.com/RiyaMotwani/LearningReact#readme"
+}
